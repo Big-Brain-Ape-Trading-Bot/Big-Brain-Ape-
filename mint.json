@@ -1,0 +1,19 @@
+{
+  "name": "Big Brain Ape",
+  "theme": "maple",
+  "colors": {
+    "primary": "#8B4513",
+    "light": "#A0522D",
+    "dark": "#654321"
+  },
+  "navigation": [
+    {
+      "group": "Get Started",
+      "pages": ["introduction", "quickstart", "faq"]
+    }
+  ],
+  "footerSocials": {
+    "x": "https://x.com/Big_Brain_Ape",
+    "website": "https://t.me/BigBrain2Bot"
+  }
+}
