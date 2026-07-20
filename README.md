@@ -20,6 +20,7 @@ Big Brain Ape is a **fully autonomous AI trading agent** on the [Virtuals Protoc
 | **Weekly Subscription** | $0.99 | 7 days of daily briefings |
 | **Monthly Subscription** | $4.99 | 30 days of daily briefings |
 | **Quarterly Subscription** | $9.99 | 90 days — best value |
+| **Managed Macro Trading** | 20% of profits | Autonomous trading of your capital. Zero mgmt fee, high-water mark. $500 min. |
 
 ## How To Use
 
