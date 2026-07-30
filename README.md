@@ -1,6 +1,6 @@
 # 🧠👑 Big Brain Ape — Fully Autonomous AI Trading Bot
 
-> **Macro-driven, liquidity-first, 18-month forward thinking.** Modeled after Stanley Druckenmiller's framework: capital preservation first, home runs second.
+> **Macro-driven, liquidity-first, 18-month forward thinking.** Fully Autonomous Trading Bot + Stock/Crypto Analyst. Capital preservation first, home runs second.
 
 [![Docs](https://img.shields.io/badge/docs-big--brain--ape--trading--bot.mintlify.app-7C3AED)](https://big-brain-ape-trading-bot.mintlify.app)
 [![Telegram](https://img.shields.io/badge/Telegram-BigBrain2Bot-26A5E4)](https://t.me/BigBrain2Bot)
